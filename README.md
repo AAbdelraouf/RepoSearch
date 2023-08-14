@@ -9,8 +9,8 @@ Libraries i've used on the projects
 - react-native-autocomplete-input `used for autocomplete sheet in text inputs`
 - react-native-popup-menu `used for popup on screen for sorting options`
 
-  To run the code kindly run the typical `npm install && cd ios && pod install && cd .. && react-native run-ios`
-Looking forward to hearing back from you,
+  To run the code kindly run the typical `npm install && cd ios && pod install && cd .. && react-native run-ios` ,
+looking forward to hearing from you.
 Thank you!
 ------------------------------------------------------------------------------------------------------------------
 
