@@ -1,5 +1,19 @@
 # React Native Engineer Challenge (2-5 hrs)
 
+
+Hi Team, thank you for taking the time to review my code,
+
+Libraries i've used on the projects
+- react-query `used for managing api data state`
+- react-native-vector-icons `used for using icons in the UI`
+- react-native-autocomplete-input `used for autocomplete sheet in text inputs`
+- react-native-popup-menu `used for popup on screen for sorting options`
+
+  To run the code kindly run the typical `npm install && cd ios && pod install && cd .. && react-native run-ios`
+Looking forward to hearing back from you,
+Thank you!
+------------------------------------------------------------------------------------------------------------------
+
 Thanks for trying our development challenge! Let's get started.
 
 ### The Challenge
